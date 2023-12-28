@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @tanmayyadav
-- 👀 I’m interested in web3, venture capital and startups
-- 🌱 I’m currently learning web3 development
+- 👀 I was a venture capitalist for the past 5 years now moving to operating side of things
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @yeatzus
+- 📫 How to reach me: @yeatzus on social media OR ty@tanmay.surf
 
 <!---
 tanmayyadav/tanmayyadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
